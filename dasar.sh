@@ -18,6 +18,9 @@ gem install lolcat
 pkg install mechanize
 pip install mechanize
 pip2 install mechanize
+pkg install vim
+pkg install openssh
+pkg install fish
 pkg install clang
 pkg install gnupg
 pkg install wget
