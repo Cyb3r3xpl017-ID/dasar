@@ -11,7 +11,7 @@ pip install request
 pip2 install request
 pkg install request
 pkg install nano
-pkg install bs4
+pip install bs4
 pkg install gem
 pkg install ruby
 gem install lolcat
@@ -26,3 +26,5 @@ pkg install gnupg
 pkg install wget
 pkg install neofetch
 pkg install screenfetch
+pkg install unzip
+pkg install termcolor
