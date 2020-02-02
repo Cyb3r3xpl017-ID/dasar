@@ -7,6 +7,7 @@ pkg install curl
 pkg install php
 pkg install toilet
 pkg install figlet
+pkg install cowsay
 pip install request
 pip2 install request
 pkg install request
